@@ -1,5 +1,7 @@
 import turtle
 
+# Project has been scrapped
+
 ################################
 # UTILITY CLASSES
 ################################
